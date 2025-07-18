@@ -169,7 +169,6 @@ uv.lock
 logs/
 *.log
 .DS_Store
-.kiro/
 node_modules/
 assets/
 dist/
